@@ -7,9 +7,10 @@
    ![image](https://github.com/user-attachments/assets/f99d7777-6fea-47e5-bf9a-fc452f835952)
 
 3. Create a video of the app working with all of the additional features. Make the video small enough to render here or upload to a video service witha aviawable link.
+renders, only as an asset though (click to view in new tab) 
 [Screen recording 2024-10-25 12.43.26 AM.webm](https://github.com/user-attachments/assets/fa773627-bbfc-4014-988f-4428ae86a93a)
 
-4. Choose two snapshots of code that demonstrate the algorithm(s) used to implement the additional features. Explain the code in the screenshots.
+5. Choose two snapshots of code that demonstrate the algorithm(s) used to implement the additional features. Explain the code in the screenshots.
 
 picks a random number within the default window range to be the x position and the y position of the turtle - sets the position of said turtles to the variables. Also picks a random shape size. function is called whenever the turtle is clicked upon the onclick- meaning it transforms each time. 
 ![image](https://github.com/user-attachments/assets/0fdc38a1-a224-4111-a558-0e04e251000f)
